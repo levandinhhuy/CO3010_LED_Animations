@@ -1,5 +1,5 @@
-#ifndef EXERCISE1_H_
-#define EXERCISE1_H_
+#ifndef INC_EXERCISE1_H_
+#define INC_EXERCISE1_H_
 
 #include "main.h"
 
